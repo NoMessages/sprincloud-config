@@ -1,7 +1,7 @@
 info: welcome config-dev.yml
   
 config:
-  services: hahahahha
+  services: hahahahha version1
   
   momo:
     voices: hehehehhehe
